@@ -1,0 +1,29 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "File Upload",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityarajput2045/File-Upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adityarajput2045/File-Upload/issues"
+  },
+  "homepage": "https://github.com/adityarajput2045/File-Upload#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "express-fileupload": "^1.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
